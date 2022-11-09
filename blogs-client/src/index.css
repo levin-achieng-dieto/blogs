@@ -16,6 +16,9 @@ code {
   background-color: rgba(255, 0, 255, 0.144);
   text-transform: uppercase;
   text-shadow: #15ff00e8 1px 0 10px;
+  text-align: center;
+  text-overflow: ellipsis;
+  text-rendering: auto;
 }
 
 .post__image img {
@@ -60,12 +63,16 @@ code {
 
 ::placeholder {
   font-size: 13px;
+  float: right;
 }
 
 .form__label {
   font-weight: 500;
 }
-
+.blog__search{
+    float: right;
+    overflow: hidden;
+}
 .blog__search input {
   border-radius: 9px;
   padding-left: 10px;
@@ -76,39 +83,3 @@ code {
   outline: none;
   border: 1px solid #ffdaff;
 }
-
-.App {
-    font-family: sans-serif;
-    text-align: center;
-  }
-  
-  /* SOCIAL STUFF */
-  .social-container {
-    background: #eee;
-    padding: 25px 50px;
-  }
-  a.social {
-    margin: 0 1rem;
-    transition: transform 250ms;
-    display: inline-block;
-  }
-  
-  a.social:hover {
-    transform: translateY(-2px);
-  }
-  
-  a.youtube {
-    color: #eb3223;
-  }
-  
-  a.facebook {
-    color: #4968ad;
-  }
-  
-  a.twitter {
-    color: #49a1eb;
-  }
-  
-  a.instagram {
-    color: black;
-  }
