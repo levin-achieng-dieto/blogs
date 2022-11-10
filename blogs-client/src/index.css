@@ -35,3 +35,15 @@ body {
     align-items: center;
     font-size: 20px;
   }
+
+  .post__edit {
+    color: #198754;
+    margin-right: 20px;
+    width: 10%;
+    cursor: pointer;
+  }
+  
+  .post__delete {
+    cursor: pointer;
+    color: rgba(255, 0, 0, 0.733);
+  }
