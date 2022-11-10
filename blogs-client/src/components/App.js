@@ -22,6 +22,7 @@ function App() {
     <div className="container-fluid">
       <Header />
       <Post posts={post} loadPosts={loadPosts} />
+      <BlogList/>
       <Footer/>
     </div>
   );
