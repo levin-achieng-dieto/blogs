@@ -28,3 +28,10 @@ body {
     padding: 15px 5px 20px 10px;
     justify-content: center;
   }
+
+  .action__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  }
