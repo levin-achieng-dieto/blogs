@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Let’s welcome Christmas & new year together",
+      "image": "https://www.blog.codeafrika.co.ke/wp-content/uploads/2018/07/new-years-eve-1856831_1280.jpg",
+      "short_story": "Sed mollis magna vitae pharetra eleifend. Nullam vel orci nec turpis sodales mattis. Aenean non dolor quam. Nunc facilisis mauris sit amet ex iaculis, sed iaculis tellus mattis. Vivamus at purus ligula. Nam a mauris id justo molestie ornare. Aliquam dolor ex, euismod sed rhoncus sed, ornare ut turpis. Aliquam quis interdum est. Aenean vel ante dapibus, rhoncus nulla et, condimentum lorem. In hac habitasse platea dictumst. Aliquam erat volutpat. In at sapien vel augue dapibus consequat sit amet vitae enim. Proin lacinia congue ipsum et semper."
+    },
+    {
+      "id": 4,
+      "title": "Test Again",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspJMklMmja_GjDDrSOD7LIWu5TMP_C4Rs8w&usqp=CAU",
+      "short_story": "at purus ligula. Nam a mauris id justo molestie ornare. Aliquam dolor ex, euismod sed rhoncus sed, ornare ut turpis. Aliquam quis interdum est. Aenean vel ante dapibus, rhoncus nulla et, condimentum lorem. In hac habitasse platea dictumst. Aliquam erat volutpat. In at sapien vel augue dapibus consequat sit amet vitae enim. Proin lacinia congue ipsum et semper."
+    },
+    {
+      "title": "Summer pose on the sunshine bright",
+      "image": "https://demo.themebeez.com/cream-blog-free/wp-content/uploads/sites/23/2018/06/beautiful-3062365_1920.jpg",
+      "short_story": "Morbi semper faucibus ante, non malesuada ligula rhoncus vel. Donec et vehicula urna. Mauris at ligula ullamcorper neque placerat efficitur. Fusce eu nisi quis dolor ullamcorper pulvinar. Sed luctus odio ligula, eu ornare urna rutrum sit amet. Donec ipsum neque, volutpat eget elementum ac, ullamcorper quis orci. Nunc elementum venenatis tincidunt. Suspendisse vel mollis turpis. Nullam sed orci efficitur, tincidunt sapien in, rutrum ante. Mauris vulputate tempus enim non porttitor. Pellentesque nisi urna, faucibus vel orci rutrum, convallis egestas ante. Ut accumsan sollicitudin risus sed vehicula. Fusce erat nibh, sodales ut leo ultrices, euismod efficitur velit. Aenean vulputate sapien eu eleifend imperdiet. In ut accumsan risus.",
+      "id": 5
+    },
+    {
+      "title": "How you define a girl and watch",
+      "image": "https://demo.themebeez.com/cream-blog-free/wp-content/uploads/sites/23/2018/06/wedding-3145509_1920.jpg",
+      "short_story": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 6
+    },
+    {
+      "title": "Congressional Hearing: The Sentry’s Testimony on the DRC for the Tom Lantos Human Rights Commission",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F38EAPDfDeKQ%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fthesentry.org%2F2022%2F07%2F14%2F7237%2Fsentrys-testimony-tom-lantos-human-rights-commission-hearing-drc%2F&tbnid=ZF3NtmTsFYTZgM&vet=12ahUKEwj8nom5_KL7AhW3VaQEHbE8BJkQMygAegQIARAg..i&docid=WCIZAozztid69M&w=1280&h=720&q=Congressional%20Hearing%3A%20The%20Sentry%E2%80%99s%20Testimony%20on%20the%20DRC%20for%20the%20Tom%20Lantos%20Human%20Rights%20Commission&ved=2ahUKEwj8nom5_KL7AhW3VaQEHbE8BJkQMygAegQIARAg",
+      "short_story": "On July 14, 2022, The Sentry’s Policy Consultant Sasha Lezhnev testified before a hearing with the US Tom Lantos Human Rights Commission. The hearing, “Child Labor and Human Rights Violations in the Mining Industry of the Democratic Republic of Congo International Religious Freedom,” examined human rights violations in the DRC’s mining sector, including child and forced labor, disregard for worker safety, and environmental degradation.",
+      "id": 7
+    },
+    {
+      "title": "Move files from one repository to another, preserving git history",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F38EAPDfDeKQ%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fthesentry.org%2F2022%2F07%2F14%2F7237%2Fsentrys-testimony-tom-lantos-human-rights-commission-hearing-drc%2F&tbnid=ZF3NtmTsFYTZgM&vet=12ahUKEwj8nom5_KL7AhW3VaQEHbE8BJkQMygAegQIARAg..i&docid=WCIZAozztid69M&w=1280&h=720&q=Congressional%20Hearing%3A%20The%20Sentry%E2%80%99s%20Testimony%20on%20the%20DRC%20for%20the%20Tom%20Lantos%20Human%20Rights%20Commission&ved=2ahUKEwj8nom5_KL7AhW3VaQEHbE8BJkQMygAegQIARAg",
+      "short_story": "In the multi-repository project structure, its only a matter of time when you’ll want to refactor some files from one project to another.\nToday at \nInstamojo.com\n we reached a point when we start to split our large repository into several small sub-projects.",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
