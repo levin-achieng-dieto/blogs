@@ -24,3 +24,7 @@ body {
     padding-bottom: 30px;
   }
   
+  .story__desc {
+    padding: 15px 5px 20px 10px;
+    justify-content: center;
+  }
