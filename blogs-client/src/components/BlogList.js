@@ -1,11 +1,11 @@
-// import React from "react";
+import React from "react";
 
-// function BlogList(){
-//     return(
-//         <>
-//             <h1>BlogList</h1>
-//         </>
-//     )
-// }
+function BlogList(){
+    return(
+        <>
+            <h1>BlogList</h1>
+        </>
+    )
+}
 
-// export default BlogList
+export default BlogList
