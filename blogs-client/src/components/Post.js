@@ -8,7 +8,7 @@ import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import BlogList from "./BlogList";
 
-const api = "http://localhost:3000/posts";
+const api = "http://localhost:9292/posts";
 
 // default state
 const initialState = {
