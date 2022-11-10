@@ -1,32 +1,32 @@
-// import { useEffect, useState } from "react";
-// import Header from "./Header";
-// import Post from "./Post";
-// import axios from "axios";
-// import Footer from "./Footer";
-// import BlogList from "./BlogList";
+import { useEffect, useState } from "react";
+import Header from "./Header";
+import Post from "./Post";
+import axios from "axios";
+import Footer from "./Footer";
+import BlogList from "./BlogList";
 
-// const api = "http://localhost:9292/posts";
+const api = "http://localhost:9292/posts";
 
-// function App() {
-//   const [post, setPost] = useState([]);
+function App() {
+  const [post, setPost] = useState([]);
 
-//   useEffect(() => {
-//     loadPosts();
-//   }, []);
+  useEffect(() => {
+    loadPosts();
+  }, []);
 
-//   const loadPosts = async () => {
-//     const response = await axios.get(api);
-//     setPost(response.data);
-//   };
+  const loadPosts = async () => {
+    const response = await axios.get(api);
+    setPost(response.data);
+  };
 
-//   return (
-//     <div className="container-fluid">
-//       <Header />
-//       <Post posts={post} loadPosts={loadPosts} />
-//       <BlogList/>
-//       <Footer/>
-//     </div>
-//   );
-// }
+  return (
+    <div className="container-fluid">
+      <Header />
+      <Post posts={post} loadPosts={loadPosts} />
+      <BlogList/>
+      <Footer/>
+    </div>
+  );
+}
 
-// export default App;
+export default App;
