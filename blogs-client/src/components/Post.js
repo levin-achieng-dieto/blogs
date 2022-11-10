@@ -6,6 +6,7 @@ import { Button, Modal, Form } from "react-bootstrap";
 import axios from "axios";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import BlogList from "./BlogList";
 
 const api = "http://localhost:3000/posts";
 
@@ -87,6 +88,13 @@ const Post = ({ posts, loadPosts }) => {
     }
   };
 
+  // const [BlogList, setbloglist]=useState([])
+  // useEffect(() => {
+  //   effect
+  //   return () => {
+  //     cleanup
+  //   };
+  // }, [input]);
   // search filter
   const searchItems = (searchValue) => {
     setSearchInput(searchValue);
@@ -124,6 +132,7 @@ const Post = ({ posts, loadPosts }) => {
         </div>
       </div>
 
+      <BlogList/>
       <div className="row">
         {searchInput.length > 1
           ? filteredResults.map(({ title, image, short_story, id }) => {

@@ -3,6 +3,7 @@ import Header from "./Header";
 import Post from "./Post";
 import axios from "axios";
 import Footer from "./Footer";
+import BlogList from "./BlogList";
 
 const api = "http://localhost:9292/posts";
 
@@ -22,6 +23,7 @@ function App() {
     <div className="container-fluid">
       <Header />
       <Post posts={post} loadPosts={loadPosts} />
+      <BlogList/>
       <Footer/>
     </div>
   );
