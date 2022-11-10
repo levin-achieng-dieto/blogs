@@ -13,7 +13,7 @@ Building a Sinatra API backend that uses Active Record to access and persist dat
 
 ## Frontend Setup ✴️
 
-- [x] Clone the repository using `https://github.com/levin-achieng-dieto/phase-3-sinatra-react-project` or download and extract the zip file.
+- [x] Clone the repository using `https://github.com/levin-achieng-dieto/blogs` or download and extract the zip file and you can or Clone or get the backend repository using `https://github.com/levin-achieng-dieto/phase-3-sinatra-react-project`
 - [x] Open up the cloned folder in your preferred text editor. Open up a terminal within your workspace and navigate into the Phase3-Final-Project folder
 - [x] Within that folder `blog-client`, run `npm install` which will install all dependencies for the project and then run `npm start` to get our application running on `http://localhost:3000/`
 
